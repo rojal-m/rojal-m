@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on building a personal portfolio website with React
-🌱 I’m currently learning to expand my skillset in AI and machine learning
-👯 I’m looking to collaborate on Open-source projects
+- 🔭 I’m currently working on building a personal portfolio website with React
+- 🌱 I’m currently learning to expand my skillset in AI and machine learning
+- 👯 I’m looking to collaborate on Open-source projects
 
 
 ## 🌐 Socials:
